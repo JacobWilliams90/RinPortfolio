@@ -5,7 +5,7 @@ export default function WelcomePage() {
     <section className="welcome-page">
       <header>
         <h4>Welcome, My name is Rin Rabentah and I take pictures in the amazing world of Eorzea</h4>
-        <p>Based out of the Siren shard in the Aether Datacenter.</p>
+        <p>Based out of the Aether Datacenter.</p>
       </header>
     </section>
   );
