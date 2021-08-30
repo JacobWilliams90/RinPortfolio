@@ -34,3 +34,8 @@ a, a:visited, a:hover, a:active {
   padding: 1%;
   color: black;
 }
+
+p {
+  text-align: center;
+  padding: 1% 3%;
+}

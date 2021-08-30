@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Contact() {
   return (
-    <section className="welcome-page">
+    <section>
       <header>
         <h1>Contact</h1>
       </header>

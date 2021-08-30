@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Rates() {
   return (
-    <section className="welcome-page">
+    <section>
       <header>
         <h1>Rates</h1>
         <p>
@@ -23,7 +23,7 @@ export default function Rates() {
           for a shoot to remain private, please let us know beforehand.
         </p>
         <p>
-          Adjustments are to be expected with premade poses, however, depending
+          Adjustments are to be expected with pre-made poses, however, depending
           on how much is needed there may be additional charges that we will
           discuss with you before completing a pose so that you may either
           choose a new one or continue. This will be on a case by case basis, up
@@ -34,20 +34,12 @@ export default function Rates() {
           Discord.
         </p>
       </section>
-      <section>
-        <div>
-          <p>Bronze</p>
-        </div>
-        <div>
-          <p>Silver</p>
-        </div>
-        <div>
-          <p>Gold</p>
-        </div>
-        <div>
-          <p>Customs</p>
-        </div>
-      </section>
+      <div>
+        <section>Bronze</section>
+        <section>Silver</section>
+        <section>Gold</section>
+        <section>Customs</section>
+      </div>
     </section>
   );
 }

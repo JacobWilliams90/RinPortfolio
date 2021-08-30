@@ -2,10 +2,10 @@ import React from "react";
 
 export default function WelcomePage() {
   return (
-    <section className="welcome-page">
+    <section>
       <header>
-        <h4>Welcome, My name is Rin Rabentah and I take pictures in the amazing world of Eorzea</h4>
-        <p>Based out of the Aether Datacenter.</p>
+        <h1>Welcome!</h1>
+        <p> My name is Rin and I take pictures in the amazing world of Eorzea. I am based out of the Aether Datacenter.</p>
       </header>
     </section>
   );
